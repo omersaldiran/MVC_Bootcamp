@@ -1,0 +1,13 @@
+E:\CodingCamp\Tutorial1\Tutorial1\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.exe
+E:\CodingCamp\Tutorial1\Tutorial1\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.deps.json
+E:\CodingCamp\Tutorial1\Tutorial1\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.json
+E:\CodingCamp\Tutorial1\Tutorial1\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.dev.json
+E:\CodingCamp\Tutorial1\Tutorial1\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.dll
+E:\CodingCamp\Tutorial1\Tutorial1\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+E:\CodingCamp\Tutorial1\Tutorial1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csprojAssemblyReference.cache
+E:\CodingCamp\Tutorial1\Tutorial1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfoInputs.cache
+E:\CodingCamp\Tutorial1\Tutorial1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfo.cs
+E:\CodingCamp\Tutorial1\Tutorial1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csproj.CoreCompileInputs.cache
+E:\CodingCamp\Tutorial1\Tutorial1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.dll
+E:\CodingCamp\Tutorial1\Tutorial1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+E:\CodingCamp\Tutorial1\Tutorial1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+E:\CodingCamp\Tutorial1\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe.config
+E:\CodingCamp\Tutorial1\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe
+E:\CodingCamp\Tutorial1\Tutorial1\Tutorial1\bin\Debug\Tutorial1.pdb
+E:\CodingCamp\Tutorial1\Tutorial1\Tutorial1\obj\Debug\Tutorial1.csprojAssemblyReference.cache
+E:\CodingCamp\Tutorial1\Tutorial1\Tutorial1\obj\Debug\Tutorial1.csproj.CoreCompileInputs.cache
+E:\CodingCamp\Tutorial1\Tutorial1\Tutorial1\obj\Debug\Tutorial1.exe
+E:\CodingCamp\Tutorial1\Tutorial1\Tutorial1\obj\Debug\Tutorial1.pdb
