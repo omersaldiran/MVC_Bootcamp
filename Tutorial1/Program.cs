@@ -11,6 +11,7 @@ namespace Tutorial1
         static void Main(string[] args)
         {
             Console.WriteLine("Deneme");
+            Console.WriteLine("Merhaba");
         }
     }
 }
