@@ -1,0 +1,13 @@
+E:\CodingCamp\Tutorial1\Tutorial1\OOP3\bin\Debug\netcoreapp3.1\OOP3.exe
+E:\CodingCamp\Tutorial1\Tutorial1\OOP3\bin\Debug\netcoreapp3.1\OOP3.deps.json
+E:\CodingCamp\Tutorial1\Tutorial1\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.json
+E:\CodingCamp\Tutorial1\Tutorial1\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.dev.json
+E:\CodingCamp\Tutorial1\Tutorial1\OOP3\bin\Debug\netcoreapp3.1\OOP3.dll
+E:\CodingCamp\Tutorial1\Tutorial1\OOP3\bin\Debug\netcoreapp3.1\OOP3.pdb
+E:\CodingCamp\Tutorial1\Tutorial1\OOP3\obj\Debug\netcoreapp3.1\OOP3.csprojAssemblyReference.cache
+E:\CodingCamp\Tutorial1\Tutorial1\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfoInputs.cache
+E:\CodingCamp\Tutorial1\Tutorial1\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfo.cs
+E:\CodingCamp\Tutorial1\Tutorial1\OOP3\obj\Debug\netcoreapp3.1\OOP3.csproj.CoreCompileInputs.cache
+E:\CodingCamp\Tutorial1\Tutorial1\OOP3\obj\Debug\netcoreapp3.1\OOP3.dll
+E:\CodingCamp\Tutorial1\Tutorial1\OOP3\obj\Debug\netcoreapp3.1\OOP3.pdb
+E:\CodingCamp\Tutorial1\Tutorial1\OOP3\obj\Debug\netcoreapp3.1\OOP3.genruntimeconfig.cache
